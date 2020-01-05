@@ -22,9 +22,6 @@ Choices:
 
 **Answer**
 
-Correct answer: 1
->Explanation: You distinguish JavaScript in JSX with curly braces {}. The syntax to refer to the prop is this.props.flavor - which says, "in this file, find a prop, named 'flavor'".
-
 
 <br><br>
 
@@ -50,8 +47,6 @@ Choices:
 
 **Answer**
 
-No
->Explanation: No, because the render method can only return one JSX element. To make this valid, the two heading tags need to be wrapped in a single tag. For example, the render method could return a `<div>` with the `<h1>` and `<h3>` elements inside of it
 
 <br><br>
 
@@ -78,7 +73,7 @@ Choices:
 
 **Answer**
 
-Correct Answer: 1
+
 
 
 <br><br>
@@ -94,8 +89,6 @@ Choices:
 
 **Answer**
 
-False 
->Explanation: Only one default is allowed per file. The default keyword means that if we try to import anything from this file that the app can't find, JavaScript will automatically revert to importing the component exported as default instead. If there are multiple default statements, the app won't know what to do! On a side note, it is best practice to split different components into their own file, so hopefully you won't run into this issue.
 
 
 <br><br>
@@ -114,8 +107,7 @@ Choices:
 
 **Answer**
 
-Correct Answer: 3
->Explanation: It's simple to create an app using create-react-app - just call the tool with the name you want for your app. In this case, create-react-app jungle_maze
+
 
 <br><br>
 
@@ -155,9 +147,7 @@ Choices:
 
 **Answer**
 
-Correct Answer: 1, 5
->Explanation: The component needs to end with /> to close the tag. Without adding the props, it would look like `<Store />`
->Also, when you're calling an item within an object you should call it by its key not value, so `groceryList.important`
+
 
 <br><br>
 
@@ -194,8 +184,6 @@ Choices:
 
 **Answer**
 
-Yes
->Explanation: It is! You can pass JavaScript objects into JSX using {} curly braces. Just as we can add to the JSX the passed in props, we can also add to the JSX the variable allDaisies by putting {allDaisies}
 
 
 <br><br>
@@ -217,8 +205,6 @@ Choices:
 
 **Answer**
 
-Correct Answer: 2
->Explanation: The constructor is only needed if you're changing initial setup - like setting a state. It is its own method and goes at the top of the component class, not inside the render method.
 
 
 <br><br>
@@ -241,8 +227,6 @@ Choices:
 
 **Answer**
 
-Correct answer: 1
->Explanation: setState() first updates the state of the component; this causes the virtual DOM to be updated, which in turn triggers React to compare the virtual DOM and regular DOM. Only the changed elements will update.
 
 <br><br>
 
@@ -261,8 +245,6 @@ Choices:
 
 **Answer**
 
-props
->Explanation: Elements that are passed in to a component are treated as a prop within that component. For dinosaur to be considered a state within Painting, it would need to be a new element declared within Painting's constructor - not passed in to Painting.
 
 <br><br>
 
@@ -295,7 +277,6 @@ Choices:
 
 **Answer**
 
-2, 3, and 4 are correct
 
 
 <br><br>
@@ -312,7 +293,6 @@ Choices:
 
 **Answer**
 
-False
 
 
 <br><br>
@@ -332,9 +312,6 @@ Choices:
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
 **Answer**
-
-Correct answer: 3
->Explanation: Right! We use map to iterate over an array, like a for loop, and perform an action on each item, usually saving this into a new variable.
 
 
 <br><br>
@@ -360,7 +337,6 @@ Choices:
 
 **Answer**
 
-Yes
 
 
 
@@ -388,8 +364,6 @@ Choices:
 
 **Answer**
 
-Correct Answer: 1
->Explanation: It's not, because while all of the map specific syntax is correct, you would call the prop with this.props.Juice - with an `s` on props.
 
 
 <br>
