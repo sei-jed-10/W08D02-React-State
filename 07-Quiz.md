@@ -364,6 +364,6 @@ Choices:
 
 **Answer**
 
-Yes
+1. No - the array should be called with `this.props.Juice`, making it `this.props.Juice.map`
 
 <br>
