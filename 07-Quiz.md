@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 **Answer**
-
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 
 <br><br>
 
@@ -46,7 +46,7 @@ Choices:
 2. `No`
 
 **Answer**
-
+`No`
 
 <br><br>
 
@@ -72,6 +72,7 @@ Choices:
 4. The `ReactDOM.render` method generates a new element with an ID of root, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
 **Answer**
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
 
 
 
@@ -88,7 +89,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+`False`
 
 
 <br><br>
@@ -106,7 +107,7 @@ Choices:
 4. `create-react-app index/jungle_maze.js`
 
 **Answer**
-
+`create-react-app jungle_maze`
 
 
 <br><br>
@@ -146,8 +147,7 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 **Answer**
-
-
+1. The Store component call needs to end with `/>`, not just `>`
 
 <br><br>
 
@@ -184,7 +184,7 @@ Choices:
 
 **Answer**
 
-
+`No`
 
 <br><br>
 
@@ -204,7 +204,7 @@ Choices:
 4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
 
 **Answer**
-
+1. At the top of the component class; you always need it for accurate setup of that class.
 
 
 <br><br>
@@ -244,7 +244,7 @@ Choices:
 2. `state`
 
 **Answer**
-
+`state`
 
 <br><br>
 
@@ -292,7 +292,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+`True`
 
 
 <br><br>
@@ -312,7 +312,7 @@ Choices:
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
 **Answer**
-
+A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 
 <br><br>
 
@@ -337,7 +337,7 @@ Choices:
 
 **Answer**
 
-
+Yes
 
 
 <br><br>
@@ -360,10 +360,10 @@ Choices:
 
 3. No - `juiceType` was never initialized
 
-4. Yes
+4. Yes 
 
 **Answer**
 
-
+Yes
 
 <br>
