@@ -15,7 +15,7 @@ A component is being passed a prop named `flavor`. What JSX would the component 
 
 Choices:
 
-1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>` *
 2. `<p>My favorite ice cream is {props.this.flavor}!</p>`
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
@@ -43,7 +43,7 @@ class Paintings extends Component {
 Choices:
 
 1. `Yes`
-2. `No`
+2. `No`*
 
 **Answer**
 
@@ -63,7 +63,7 @@ ReactDOM.render(
 
 Choices:
 
-1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed. *
 
 2. The `ReactDOM.render` method generates a virtual DOM node containing whatever the JSX that the `Kangaroos` component returns. React then reloads the entire webpage, changing only the element with an ID of root.
 
@@ -85,7 +85,7 @@ If you have multiple components written in a single file, you can then have mult
 Choices:
 
 1. `True`
-2. `False`
+2. `False` *
 
 **Answer**
 
@@ -102,7 +102,7 @@ Choices:
 
 1. `create-react-app npm/start jungle_maze`
 2. `create-react-app jungle_maze.js`
-3. `create-react-app jungle_maze`
+3. `create-react-app jungle_maze` *
 4. `create-react-app index/jungle_maze.js`
 
 **Answer**
@@ -139,7 +139,7 @@ ReactDOM.render(
 
 Choices:
 
-1. The Store component call needs to end with `/>`, not just `>`
+1. The Store component call needs to end with `/>`, not just `>` *
 2. The prop name and variable name need to match - `buy_me` needs to be `milk` and `me_too` needs to be `spices`
 3. The `var groceryList` declaration needs to be inside the render method
 4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
@@ -179,7 +179,7 @@ class Flowers extends Component {
 
 Choices:
 
-1. `Yes`
+1. `Yes` *
 2. `No`
 
 **Answer**
@@ -197,7 +197,7 @@ Choices:
 
 1. At the top of the component class; you always need it for accurate setup of that class.
 
-2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class. *
 
 3. In the component class' `render()` method; you always need it for accurate setup of that class.
 
@@ -216,7 +216,7 @@ What happens when you call `setState()`?
 
 Choices:
 
-1. The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update.
+1. The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update. *
 
 2. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 
@@ -240,7 +240,7 @@ If we have the code below, inside of the Painting component, will `dinosaur` be 
 
 Choices:
 
-1. `prop`
+1. `prop`*
 2. `state`
 
 **Answer**
@@ -273,7 +273,7 @@ Choices:
 
 4. Constructors need to begin with a call to `super()`
 
-5. All of the above.
+5. All of the above. *
 
 **Answer**
 
@@ -289,7 +289,7 @@ Using React, if you refresh a webpage, you never lose information since everythi
 Choices:
 
 1. `True`
-2. `False`
+2. `False` *
 
 **Answer**
 
@@ -305,9 +305,9 @@ Choices:
 
 1. A map is like a `while` loop. With `map`, you use an existing iterator to navigate through each item until you break the loop.
 
-2. A map is like a `for` loop. With `map`, you use an existing iterator to navigate through each item in an array.
+2. A map is like a `for` loop. With `map`, you use an existing iterator to navigate through each item in an array. 
 
-3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
+3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array. *
 
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
@@ -333,7 +333,7 @@ Choices:
 1. No - `soda` was never initialized
 2. No - `index` is a keyword and cannot be used as a variable
 3. No - the first line of the function should be `const myDrinks = map( (drinks, index)`
-4. Yes
+4. Yes *
 
 **Answer**
 
@@ -354,7 +354,7 @@ const Juices = this.prop.Juice.map((juiceType, index) => {
 
 Choices:
 
-1. No - the array should be called with `this.props.Juice`, making it `this.props.Juice.map`
+1. No - the array should be called with `this.props.Juice`, making it `this.props.Juice.map` *
 
 2. No - the array should be called with `Juice`, making it simply `Juice.map`
 
