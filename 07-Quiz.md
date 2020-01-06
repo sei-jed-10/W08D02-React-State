@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 **Answer**
-
+(1)
 
 <br><br>
 
@@ -46,7 +46,7 @@ Choices:
 2. `No`
 
 **Answer**
-
+(2) import React...
 
 <br><br>
 
@@ -73,7 +73,7 @@ Choices:
 
 **Answer**
 
-
+(1)
 
 
 <br><br>
@@ -89,7 +89,7 @@ Choices:
 
 **Answer**
 
-
+(1)
 
 <br><br>
 **Question 5.** 
@@ -107,7 +107,7 @@ Choices:
 
 **Answer**
 
-
+(3)
 
 <br><br>
 
@@ -147,7 +147,7 @@ Choices:
 
 **Answer**
 
-
+(1)
 
 <br><br>
 
@@ -184,7 +184,7 @@ Choices:
 
 **Answer**
 
-
+(1)
 
 <br><br>
 
@@ -204,7 +204,7 @@ Choices:
 4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
 
 **Answer**
-
+(2)
 
 
 <br><br>
@@ -226,7 +226,7 @@ Choices:
 4. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 
 **Answer**
-
+(1)
 
 <br><br>
 
@@ -244,7 +244,7 @@ Choices:
 2. `state`
 
 **Answer**
-
+(1)
 
 <br><br>
 
@@ -276,7 +276,7 @@ Choices:
 5. All of the above.
 
 **Answer**
-
+(5)
 
 
 <br><br>
@@ -292,7 +292,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+(2)
 
 
 <br><br>
@@ -312,7 +312,7 @@ Choices:
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
 **Answer**
-
+(3)
 
 <br><br>
 
@@ -337,7 +337,7 @@ Choices:
 
 **Answer**
 
-
+(4)
 
 
 <br><br>
@@ -363,7 +363,7 @@ Choices:
 4. Yes
 
 **Answer**
-
+(1)
 
 
 <br>
