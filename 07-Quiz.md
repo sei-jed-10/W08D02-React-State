@@ -23,7 +23,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 
 **Question 2.** 
 
@@ -48,7 +48,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+2. `No`
 
 **Question 3.** 
 
@@ -75,8 +75,9 @@ Choices:
 
 
 
+1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
 
-<br><br>
+
 **Question 4.** 
 
 
@@ -90,8 +91,8 @@ Choices:
 **Answer**
 
 
+1. `True`
 
-<br><br>
 **Question 5.** 
 
 
@@ -108,8 +109,7 @@ Choices:
 **Answer**
 
 
-
-<br><br>
+3. `create-react-app jungle_maze`
 
 **Question 6.** 
 
@@ -147,9 +147,8 @@ Choices:
 
 **Answer**
 
+1. The Store component call needs to end with `/>`, not just `>`
 
-
-<br><br>
 
 **Question 7.** 
 
@@ -184,9 +183,7 @@ Choices:
 
 **Answer**
 
-
-
-<br><br>
+1. `Yes`
 
 **Question 8.** 
 
@@ -205,9 +202,9 @@ Choices:
 
 **Answer**
 
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 
 
-<br><br>
 
 **Question 9.** 
 
@@ -227,8 +224,7 @@ Choices:
 
 **Answer**
 
-
-<br><br>
+1. The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update.
 
 **Question 10.** 
 
@@ -245,8 +241,7 @@ Choices:
 
 **Answer**
 
-
-<br><br>
+1. `prop`
 
 **Question 11.** 
 
@@ -277,9 +272,7 @@ Choices:
 
 **Answer**
 
-
-
-<br><br>
+5. All of the above.
 
 **Question 12.** 
 
@@ -294,8 +287,7 @@ Choices:
 **Answer**
 
 
-
-<br><br>
+2. `False`
 
 **Question 13.** 
 
@@ -313,8 +305,7 @@ Choices:
 
 **Answer**
 
-
-<br><br>
+3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 
 **Question 14.** 
 
@@ -338,9 +329,7 @@ Choices:
 **Answer**
 
 
-
-
-<br><br>
+4. Yes
 
 **Question 15.** 
 
@@ -366,4 +355,4 @@ Choices:
 
 
 
-<br>
+1. No - the array should be called with `this.props.Juice`, making it `this.props.Juice.map`
