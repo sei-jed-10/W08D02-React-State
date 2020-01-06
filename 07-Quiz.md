@@ -20,10 +20,10 @@ Choices:
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
-**Answer**
+**1**
 
 
-<br><br>
+<br>1<br>
 
 **Question 2.** 
 
@@ -45,10 +45,10 @@ Choices:
 1. `Yes`
 2. `No`
 
-**Answer**
+**2**
 
 
-<br><br>
+<br>2<br>
 
 **Question 3.** 
 
@@ -71,12 +71,12 @@ Choices:
 
 4. The `ReactDOM.render` method generates a new element with an ID of root, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
-**Answer**
+**3**
 
 
 
 
-<br><br>
+<br>3<br>
 **Question 4.** 
 
 
@@ -91,7 +91,7 @@ Choices:
 
 
 
-<br><br>
+<br>2<br>
 **Question 5.** 
 
 
@@ -109,7 +109,7 @@ Choices:
 
 
 
-<br><br>
+<br>3<br>
 
 **Question 6.** 
 
@@ -149,7 +149,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 7.** 
 
@@ -186,7 +186,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 8.** 
 
@@ -207,7 +207,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 9.** 
 
@@ -228,7 +228,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>4<br>
 
 **Question 10.** 
 
@@ -246,7 +246,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>1<br>
 
 **Question 11.** 
 
@@ -279,7 +279,7 @@ Choices:
 
 
 
-<br><br>
+<br>2<br>
 
 **Question 12.** 
 
@@ -295,7 +295,7 @@ Choices:
 
 
 
-<br><br>
+<br>2<br>
 
 **Question 13.** 
 
@@ -314,7 +314,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>2<br>
 
 **Question 14.** 
 
@@ -340,7 +340,7 @@ Choices:
 
 
 
-<br><br>
+<br>4<br>
 
 **Question 15.** 
 
@@ -363,7 +363,7 @@ Choices:
 4. Yes
 
 **Answer**
-
+ 4
 
 
 <br>
