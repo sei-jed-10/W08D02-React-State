@@ -149,7 +149,7 @@ Choices:
 
 **Answer**
 1) The Store component call needs to end with `/>`, not just `>`
-3) The `var groceryList` declaration needs to be inside the render method 
+4) When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 5) The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 <br><br>
