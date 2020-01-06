@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 **Answer**
-
+1
 
 <br><br>
 
@@ -46,7 +46,7 @@ Choices:
 2. `No`
 
 **Answer**
-
+2
 
 <br><br>
 
@@ -73,7 +73,7 @@ Choices:
 
 **Answer**
 
-
+1
 
 
 <br><br>
@@ -88,7 +88,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+1
 
 
 <br><br>
@@ -106,7 +106,7 @@ Choices:
 4. `create-react-app index/jungle_maze.js`
 
 **Answer**
-
+3
 
 
 <br><br>
@@ -147,7 +147,7 @@ Choices:
 
 **Answer**
 
-
+1
 
 <br><br>
 
@@ -184,7 +184,7 @@ Choices:
 
 **Answer**
 
-
+1
 
 <br><br>
 
@@ -205,7 +205,7 @@ Choices:
 
 **Answer**
 
-
+2
 
 <br><br>
 
@@ -227,7 +227,7 @@ Choices:
 
 **Answer**
 
-
+1
 <br><br>
 
 **Question 10.** 
@@ -244,7 +244,7 @@ Choices:
 2. `state`
 
 **Answer**
-
+1
 
 <br><br>
 
@@ -277,7 +277,7 @@ Choices:
 
 **Answer**
 
-
+5
 
 <br><br>
 
@@ -292,7 +292,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+2
 
 
 <br><br>
@@ -312,7 +312,7 @@ Choices:
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
 **Answer**
-
+3
 
 <br><br>
 
@@ -337,7 +337,7 @@ Choices:
 
 **Answer**
 
-
+4
 
 
 <br><br>
@@ -364,6 +364,6 @@ Choices:
 
 **Answer**
 
-
+1
 
 <br>
