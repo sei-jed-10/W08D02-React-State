@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 **Answer**
-
+1
 
 <br><br>
 
@@ -46,7 +46,7 @@ Choices:
 2. `No`
 
 **Answer**
-
+No
 
 <br><br>
 
@@ -72,7 +72,7 @@ Choices:
 4. The `ReactDOM.render` method generates a new element with an ID of root, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
 **Answer**
-
+1 
 
 
 
@@ -88,7 +88,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+False
 
 
 <br><br>
@@ -106,7 +106,7 @@ Choices:
 4. `create-react-app index/jungle_maze.js`
 
 **Answer**
-
+3 
 
 
 <br><br>
@@ -146,7 +146,7 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 **Answer**
-
+1 , 5 
 
 
 <br><br>
@@ -183,7 +183,7 @@ Choices:
 2. `No`
 
 **Answer**
-
+Yes
 
 
 <br><br>
@@ -204,7 +204,7 @@ Choices:
 4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
 
 **Answer**
-
+1
 
 
 <br><br>
@@ -226,7 +226,7 @@ Choices:
 4. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 
 **Answer**
-
+1
 
 <br><br>
 
@@ -244,7 +244,7 @@ Choices:
 2. `state`
 
 **Answer**
-
+`prop`
 
 <br><br>
 
@@ -276,7 +276,7 @@ Choices:
 5. All of the above.
 
 **Answer**
-
+ 2 ,3 , 4 ,5 
 
 
 <br><br>
@@ -292,7 +292,7 @@ Choices:
 2. `False`
 
 **Answer**
-
+False 
 
 
 <br><br>
@@ -312,7 +312,7 @@ Choices:
 4. A map is like a `while` loop. With `map`, you make a new variable and with it iterate through each item until you break the loop.
 
 **Answer**
-
+3 
 
 <br><br>
 
@@ -336,7 +336,7 @@ Choices:
 4. Yes
 
 **Answer**
-
+Yes
 
 
 
@@ -363,7 +363,7 @@ Choices:
 4. Yes
 
 **Answer**
-
+1
 
 
 <br>
