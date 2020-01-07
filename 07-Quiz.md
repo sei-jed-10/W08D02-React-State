@@ -49,7 +49,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>1<br>
 
 **Question 3.** 
 
@@ -77,7 +77,7 @@ Choices:
 
 
 
-<br><br>
+<br>i don't know<br>
 **Question 4.** 
 
 
@@ -92,7 +92,7 @@ Choices:
 
 
 
-<br><br>
+<br>2<br>
 **Question 5.** 
 
 
@@ -110,7 +110,7 @@ Choices:
 
 
 
-<br><br>
+<br>3<br>
 
 **Question 6.** 
 
@@ -150,7 +150,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 7.** 
 
@@ -187,7 +187,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 8.** 
 
@@ -208,7 +208,7 @@ Choices:
 
 
 
-<br><br>
+<br>2<br>
 
 **Question 9.** 
 
@@ -229,7 +229,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>4<br>
 
 **Question 10.** 
 
@@ -247,7 +247,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>1<br>
 
 **Question 11.** 
 
@@ -280,7 +280,7 @@ Choices:
 
 
 
-<br><br>
+<br>3<br>
 
 **Question 12.** 
 
@@ -296,7 +296,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 13.** 
 
@@ -315,7 +315,7 @@ Choices:
 **Answer**
 
 
-<br><br>
+<br>3<br>
 
 **Question 14.** 
 
@@ -341,7 +341,7 @@ Choices:
 
 
 
-<br><br>
+<br>1<br>
 
 **Question 15.** 
 
@@ -367,4 +367,4 @@ Choices:
 
 
 
-<br>
+<br> 4
